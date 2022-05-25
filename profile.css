@@ -1,0 +1,79 @@
+h1 {
+  font-size: 50px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  margin: 0;
+  padding: 3px 0 3px 7px;
+  width: 1256px;
+}
+
+h2 {
+  font-size: 35px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  margin: 0;
+  padding: 3px 0 3px 20px;
+  width: 1243px;
+}
+
+h3 {
+  font-size: 25px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  margin: 0;
+  padding-left: 10px;
+  color: white;
+  background-color: rgba(15, 9, 129, 0.9);
+}
+
+p{
+  padding: 20px 15px 0 15px;
+  margin: 0;
+  font-size: 20px
+}
+
+.last{
+  padding-bottom: 20px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 314px;
+}
+
+.profile{ 
+  position: absolute;
+  width: 317px;
+  height: 312px;
+  top: 144px;
+  left: 314px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  border-right: 2px solid rgb(36, 0, 128);
+}
+
+.detail{
+  position: absolute;
+  width: 317px;
+  height: 312px;
+  top: 144px;
+  left: 630px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  border-right: 2px solid rgb(36, 0, 128);
+}
+
+.sns{
+  position: absolute; 
+  width: 317px;
+  height: 312px;
+  top: 144px;
+  left: 944px;
+  border-bottom: 2px solid rgb(36, 0, 128);
+  border-right: 2px solid rgb(36, 0, 128);
+}
+
+.career{
+  position: absolute;
+  top: 458px;
+  width: 100%;
+}
