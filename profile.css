@@ -3,7 +3,7 @@ h1 {
   border-bottom: 2px solid rgb(36, 0, 128);
   margin: 0;
   padding: 3px 0 3px 7px;
-  width: 1256px;
+  width: 100%-7px;
 }
 
 h2 {
@@ -11,7 +11,7 @@ h2 {
   border-bottom: 2px solid rgb(36, 0, 128);
   margin: 0;
   padding: 3px 0 3px 20px;
-  width: 1243px;
+  width: 100%-20px;
 }
 
 h3 {
